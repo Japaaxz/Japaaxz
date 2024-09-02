@@ -1,4 +1,4 @@
-<h2 align="left">## Olá, sou o Gabriel Rodrigues.<br><br>- 🎂   18 Anos;<br>- 👩‍💻   Frontend Developer;<br>- 💗   Apaixonado por tecnologia, música e jogos; <br>- 🚀   Cursando 3ª ano do ensino médio e curso front-end "Vai na Web".</h2>
+<h2 align="left">## Olá, sou o Gabriel Rodrigues.<br><br>- 🎂   18 Anos;<br>- 👩‍💻   Frontend Developer;<br>- 💗   Apaixonado por tecnologia e Música; <br>- 🚀   Cursando 3ª ano do ensino médio e curso front-end "Vai na Web".</h2>
 
 ###
 
@@ -35,7 +35,9 @@
   <a href="https://www.instagram.com/g.bielziin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=toxicmdx@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXXrlwcxmQvJtvttmGdXlzDvzjSzHNwmnvzJTmqQZDFGTfmvmctQKpDSZHlgKxqFJbmjGV" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=toxicmdx@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Japaaaxz&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-1aab7a326/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
