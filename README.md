@@ -1,4 +1,4 @@
-<h2 align="left">## Olá, sou o Gabriel Rodrigues.<br><br>- 🎂   18 Anos;<br>- 👩‍💻   Frontend Developer;<br>- 💗   Apaixonado por tecnologia e Música; <br>- 🚀   Cursando 3ª ano do ensino médio e curso front-end "Vai na Web".</h2>
+<h2 align="left">Olá, sou o Gabriel Rodrigues.<br><br>- 🎂   18 Anos;<br>- 👩‍💻   Frontend Developer;<br>- 💗   Apaixonado por tecnologia e Música; <br>- 🚀   Cursando 3ª ano do ensino médio e curso front-end "Vai na Web".</h2>
 
 ###
 
