@@ -1,4 +1,4 @@
-## Bem-vindo, sou o Gabriel Rodrigues e tenho 18 anos. 
+## Olá Gabriel Rodrigues e tenho 18 anos. 
 
 
 - 👩‍💻   Frontend Developer;
